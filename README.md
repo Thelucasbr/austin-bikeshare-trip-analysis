@@ -1,6 +1,3 @@
-# austin-bikeshare-trip-analysis
-Exploratory analysis of Austin Bikeshare trips focused on average duration by start station, using SQL and Google Sheets.
-
 # Austin Bikeshare Trip Analysis
 
 This project analyzes average trip duration by start station using public data from the Austin Bikeshare system.
