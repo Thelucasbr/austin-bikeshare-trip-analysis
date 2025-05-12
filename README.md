@@ -17,6 +17,10 @@ This project analyzes average trip duration by start station using public data f
 
 The final chart shows the top 20 stations with the longest average trip durations. This can provide insights into areas where users take longer, possibly for leisure or longer routes.
 
+![Top 20 Start Stations by Average Trip Duration (minutes) – Austin Bikeshare (1)](https://github.com/user-attachments/assets/14a01d78-8bb6-445a-bc2b-2139df3573a5)
+
+
 ## Files
 
-- `Average Trip Duration per Start Station – Austin Bikeshare.pdf`: Final chart with cleaned and sorted data
+- `austin_bikeshare_avg_duration.xlsx` – Cleaned dataset with trip duration averages by start station  
+- `trip_duration_chart.png` – Bar chart visualizing the top 20 stations by average trip duration
