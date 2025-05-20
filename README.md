@@ -1,4 +1,4 @@
-# Austin Bikeshare Trip Analysis
+# Bikeshare Trip Analysis
 
 This project analyzes average trip duration by start station using public data from the Austin Bikeshare system.
 
